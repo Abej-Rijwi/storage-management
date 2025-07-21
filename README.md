@@ -1056,4 +1056,4 @@ declare interface ShareInputProps {
 
 ## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found [here]([https://drive.google.com/drive/u/1/folders/1nxpDL-M1cA_pD6wdNrnbHln5YghS3SsG](https://drive.google.com/drive/u/1/folders/1H7FeA9uhUha3y1l29u1NPse4ilRPF6Cr))
+Models and Assets used in the project can be found [here](https://drive.google.com/drive/u/1/folders/1H7FeA9uhUha3y1l29u1NPse4ilRPF6Cr)
